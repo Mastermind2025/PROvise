@@ -302,7 +302,7 @@
 				
 				<div class='slider__slides'>
 					<div class='pv-advice pv-advice-type-hot'>
-						<img src='img/pv-advice-3.jpg' alt=' ' class='pv-advice__image'>
+						<img src='img/pv-advice-3.jpg' class='pv-advice__image'>
 						<div class='pv-advise__title'>Your tolerance for risky business</div>
 						<div class='pv-advice__text'>
 						So you've decided that the investment market is <br>
@@ -319,8 +319,8 @@
 			<!--slider-->
 			<div class='slider__arrow'>
 				<div class='arrows'>
-					<a href='#' class='arrow__left'></a>
-					<a href='#' class='arrow__right'></a>
+					<a href='#' class='arrow__left'><</a>
+					<a href='#' class='arrow__right'>></a>
 				</div>
 				
 			</div>

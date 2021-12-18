@@ -319,8 +319,8 @@
 			<!--slider-->
 			<div class='slider__arrow'>
 				<div class='arrows'>
-					<a href='#' class='arrow__left'></a>
-					<a href='#' class='arrow__right'></a>
+					<a href='#' class='arrow__left'><</a>
+					<a href='#' class='arrow__right'>></a>
 				</div>
 				
 			</div>
